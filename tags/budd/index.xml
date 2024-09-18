@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BUDD on EngineerKappa&#39;s River</title>
-    <link>https://example.org/tags/budd/</link>
+    <link>https://engineerkappa.github.io/tags/budd/</link>
     <description>Recent content in BUDD on EngineerKappa&#39;s River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/budd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://engineerkappa.github.io/tags/budd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>B.U.D.D.</title>
-      <link>https://example.org/budd/</link>
+      <link>https://engineerkappa.github.io/budd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/budd/</guid>
+      <guid>https://engineerkappa.github.io/budd/</guid>
       <description>B.U.D.D. What is BUDD? Eris using her first BUDD, Boxer, on Planet Verdeo.&#xD;BUDD is a retro sci-fi adventure platformer game I&#39;ve been working on since 2021! It&#39;s loosely inspired by retro SEGA games I loved, like Monster World IV or the Phantasy Star games.&#xA;It stars Eris, a rookie bounty hunter that&#39;s found herself in the wrong place at the wrong time. She needs to use friendly robots called BUDDs to help her repair her ship, finish jobs for her colony, and then eventually uncover a conspiracy spanning the entire Lumina System.</description>
     </item>
     <item>
       <title>The History of BUDD</title>
-      <link>https://example.org/budd/history.html</link>
+      <link>https://engineerkappa.github.io/budd/history.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/budd/history.html</guid>
+      <guid>https://engineerkappa.github.io/budd/history.html</guid>
       <description>&amp;lt;-- Back to the BUDD Main page&#xA;The History of BUDD What do you mean BUDD was an RPG??? Games Between Games There and Back A Slice of the Modern Era The Present, and the Future of BUDD What do you mean BUDD was an RPG??? Eris&amp;#39; party from StarGame, back when she was only known as &amp;#39;Hunter&amp;#39; or &amp;#39;Swordgal&amp;#39;. Sadly none of the others made it into BUDD as it is now.</description>
     </item>
   </channel>
