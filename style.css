@@ -79,12 +79,13 @@ font-style: italic;
 figure
 {
   text-align: center;
+  
 }
 
 figcaption 
 {
+  margin: 4px auto;
 font: italic 80% "Arial";
-margin-top: -10;
 text-align: center;
 }
 
