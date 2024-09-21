@@ -163,6 +163,12 @@ border-bottom: 5px solid #ff7b00;
 padding-bottom: 4px;
 }
 
+footer 
+{
+  align-content: center;
+  text-align: center;
+}
+
 #navbar {
 font: bold 100% "Arial";
 align-content: center;
