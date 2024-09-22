@@ -1,12 +1,8 @@
-
-
 body {
   background-color:#000030;
-  background-image: url("/images/tilebg.gif");    
+  background-image: url("/images/tilebg.gif");
   color:#ffffff;
 }
-
-
 /* unvisited link */
 a:link {
   color: rgb(0, 183, 255);
@@ -20,133 +16,101 @@ a:hover {
   color: hsl(197, 100%, 76%);
 }
 /* selected link */
-a:active {  
+a:active {
   color: rgb(0, 158, 221);
-} 
-
+}
 li {
   margin: 8px 0;
 }
-
 img {
   max-width: 100%;
   height: auto;
 }
-
-.wrapingimage  
-{  
-float: left;   
-margin: 0px 4px 4px 4px;   
-border: 1px solid #ff7b00;  
-}  
-
+.wrapingimage {
+  float: left;
+  margin: 0px 4px 4px 4px;
+  border: 1px solid #ff7b00;
+}
 h1{
-margin-top: 0;
-font: bold 185% "Arial";
-border-bottom: 2px solid #ff7b00;
-font-weight: bold;
-font-style: italic;
+  margin-top: 0;
+  font: bold 185% "Arial";
+  border-bottom: 2px solid #ff7b00;
+  font-weight: bold;
+  font-style: italic;
 }
-
 h2 {
-font: bold 130% "Arial";
-margin-left: 16px;
-margin-right: 16px;
-border-bottom: 1px solid #ff7b00;
+  font: bold 130% "Arial";
+  margin-left: 16px;
+  margin-right: 16px;
+  border-bottom: 1px solid #ff7b00;
 }
-
 img[src$='#center'] {
   display: block;
   margin: 1.0rem auto;
   max-width: 100%;
   height: auto;
 }
-
 h3 {
-text-align: center;
-font: 100% "Arial";
-font-weight: bold;
-font-style: italic;
+  text-align: center;
+  font: 100% "Arial";
+  font-weight: bold;
+  font-style: italic;
 }
-
 .content {
   max-width: 800px;
   margin: auto;
   font: 100% "Arial";
-  }
-
-
-figure
-{
+}
+figure {
   text-align: center;
-  
 }
-
-figcaption 
-{
+figcaption {
   margin: 4px auto;
-font: italic 80% "Arial";
-text-align: center;
+  font: italic 80% "Arial";
+  text-align: center;
 }
-
 td {
-max-width: auto;
-height: auto;
-font: 100% "Georgia";
+  max-width: auto;
+  height: auto;
+  font: 100% "Georgia";
 }
-
-
-
 .flex {
-display:flex;
+  display:flex;
 }
-
 div.gallerybody {
-text-align: center;
-margin-left: -8px;
-margin-right: -8px;
+  text-align: center;
+  margin-left: -8px;
+  margin-right: -8px;
 }
-
-
-
-.section_main
-{
-background: rgb(0, 0, 0);
-background: rgba(0, 0, 0, 0.4);
-outline: 2px solid #ffbb00;
-margin-top: 16px;
-
-padding: 20px;
-position: relative;
+.section_main {
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.4);
+  outline: 2px solid #ffbb00;
+  margin-top: 16px;
+  padding: 20px;
+  position: relative;
 }
-
-.section_navbar
-{
+.section_navbar {
   margin-top: 16px;
   text-align: center;
   background: rgba(0, 0, 0, 0.4);
   outline: 2px solid #ffbb00;
   padding: 4px;
 }
-
 iframe {
   display: block;
   margin: 0 auto;
 }
-
 .auto-resizable-iframe {
   display: block;
-max-width: 640px;
-margin: 0px auto;
+  max-width: 640px;
+  margin: 0px auto;
 }
-
 .auto-resizable-iframe > div {
   display: block;
   position: relative;
-  padding-bottom: 75%;
   height: 0px;
 }
-
 .auto-resizable-iframe iframe {
   display: block;
   position: absolute;
@@ -155,22 +119,17 @@ margin: 0px auto;
   width: 100%;
   height: 100%;
 }
-
-
 #logo {
-text-align: center;
-border-bottom: 5px solid #ff7b00;
-padding-bottom: 4px;
+  text-align: center;
+  border-bottom: 5px solid #ff7b00;
+  padding-bottom: 4px;
 }
-
-footer 
-{
+footer {
   align-content: center;
   text-align: center;
 }
-
 #navbar {
-font: bold 100% "Arial";
-align-content: center;
-line-height:200%;
+  font: bold 100% "Arial";
+  align-content: center;
+  line-height:200%;
 }
