@@ -6,14 +6,28 @@
     <description>Recent content in Home on EngineerKappa&#39;s River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://engineerkappa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Dev is Hard</title>
+      <link>https://engineerkappa.github.io/post/webdevishard/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://engineerkappa.github.io/post/webdevishard/</guid>
+      <description>Do you ever encounter a task that&#39;s kind of tedious, and you realize you know some way to make it go faster, only to spend way longer automating it than it would&#39;ve taken in the first place?&#xA;Hi, this is the programmer bunny speaking!&#xA;The site you&#39;re reading here is written in Hugo. Hugo is a tool/ framework/ thingamajig that lets you generate static HTML from Markdown files, manage content formatting, and some other things I don&#39;t feel like getting into.</description>
+    </item>
+    <item>
+      <title>Hello, World!</title>
+      <link>https://engineerkappa.github.io/post/helloworld/</link>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://engineerkappa.github.io/post/helloworld/</guid>
+      <description>Hello, world!&#xA;Hello, world!&#xA;h&#xA;e&#xA;l&#xA;l&#xA;o&#xA;w&#xA;o&#xA;r&#xA;l&#xA;d&#xA;dlrow olleh</description>
+    </item>
     <item>
       <title>The Characters of B.U.D.D.</title>
       <link>https://engineerkappa.github.io/budd/characters/</link>
-      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://engineerkappa.github.io/budd/characters/</guid>
-      <description>&amp;lt;-- Back to the BUDD Main page&#xA;The Characters of B.U.D.D. Eris Altair B.U.D.D. Units Rhea Stella Operator Ceres If you&#39;d like to see more or want to find these in higher resolution, check out the Art Gallery! Eris Altair Eris, the main character of BUDD!&#xD;Likes: Repairing old machines, Retro video games, Relaxing by the ocean.&#xA;Dislikes: Being bossed around, Wasting money, Strict dress codes.&#xA;Background: A bounty hunter in training newly recruited on board the space colony, MARI-XIII.</description>
+      <description>&amp;lt;-- Back to the BUDD Main page&#xA;The Characters of B.U.D.D. Eris Altair Operator Ceres Rhea Stella B.U.D.D. Units If you&#39;d like to see more or want to find these in higher resolution, check out the Art Gallery! Eris Altair Eris, the main character of BUDD!&#xD;Background: A bounty hunter in training newly recruited on board the space colony, MARI-XIII. After finishing a training mission, she crash lands on planet Verdeo and encounters a BUDD Unit named Boxer.</description>
     </item>
     <item>
       <title>The History of B.U.D.D.</title>
@@ -34,14 +48,21 @@
       <link>https://engineerkappa.github.io/budd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://engineerkappa.github.io/budd/</guid>
-      <description>B.U.D.D. What is BUDD? Eris using her first BUDD, Boxer, on Planet Verdeo.&#xD;BUDD is a retro sci-fi adventure platformer game I&#39;ve been working on since 2021! It&#39;s loosely inspired by retro SEGA games I loved, like Monster World IV or the Phantasy Star games.&#xA;It stars Eris, a rookie bounty hunter that&#39;s found herself in the wrong place at the wrong time. She needs to use friendly robots called BUDDs to help her repair her ship, finish jobs for her colony, and then eventually uncover a conspiracy spanning the entire Lumina System.</description>
+      <description>B.U.D.D. Eris using her first BUDD, Boxer, on Planet Verdeo.&#xD;BUDD is a retro sci-fi adventure platformer game I&#39;ve been working on since 2021! It&#39;s loosely inspired by retro SEGA games I loved, like Monster World IV or the Phantasy Star games.&#xA;It stars Eris, a rookie bounty hunter that&#39;s found herself in the wrong place at the wrong time. She needs to use friendly robots called BUDDs to help her repair her ship, finish jobs for her colony, and then eventually uncover a conspiracy spanning the entire Lumina System.</description>
+    </item>
+    <item>
+      <title>Site Update Archive</title>
+      <link>https://engineerkappa.github.io/update_archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://engineerkappa.github.io/update_archive/</guid>
+      <description>Site Update Archive 09/17/24 - Undergoing a HEAVY rework of the website! Here are some things to keep in mind:&#xA;The site&#39;s now on http://engineerkappa.net/! I decided to move from Neocities to GitHub Pages because git&#39;s honestly way easier to sync files with. Moving the site&#39;s content from pure HTML pages to Markdown documents via the Hugo framework. This should make it significantly easier for me to add new stuff to the site!</description>
     </item>
     <item>
       <title>Sitemap</title>
       <link>https://engineerkappa.github.io/sitemap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://engineerkappa.github.io/sitemap/</guid>
-      <description>Sitemap Here&#39;s all the pages on the site, for easy reference:&#xA;The Characters of B.U.D.D.&#xD;( Sep 21, 2024)&#xD;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Get to know Eris and all the other dorks that inhabit the Lumina System!&#xD;The History of B.U.D.D.&#xD;( Sep 18, 2024)&#xD;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;A comprehensive look at the game&amp;#39;s development from its inception.&#xD;B.U.D.D.&#xD;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;The portal for info regarding my game, BUDD!&#xD;Artwork&#xD;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;My personal art gallery!&#xD;</description>
+      <description>Sitemap Here&#39;s all the pages on the site, for easy reference:&#xA;Web Dev is Hard&#xD;( Jul 26, 2025)&#xD;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;A paradox of simplicity&#xD;The Characters of B.U.D.D.&#xD;( Jul 25, 2025)&#xD;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Get to know Eris and all the other dorks that inhabit the Lumina System!&#xD;Hello, World!&#xD;( Jul 25, 2025)&#xD;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Hello, World!&#xD;The History of B.U.D.D.&#xD;( Sep 18, 2024)&#xD;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;A comprehensive look at the game&amp;#39;s development from its inception.</description>
     </item>
   </channel>
 </rss>

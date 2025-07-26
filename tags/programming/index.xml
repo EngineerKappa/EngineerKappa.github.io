@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on EngineerKappa&#39;s River</title>
+    <link>https://engineerkappa.github.io/tags/programming/</link>
+    <description>Recent content in Programming on EngineerKappa&#39;s River</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://engineerkappa.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Dev is Hard</title>
+      <link>https://engineerkappa.github.io/post/webdevishard/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://engineerkappa.github.io/post/webdevishard/</guid>
+      <description>Do you ever encounter a task that&#39;s kind of tedious, and you realize you know some way to make it go faster, only to spend way longer automating it than it would&#39;ve taken in the first place?&#xA;Hi, this is the programmer bunny speaking!&#xA;The site you&#39;re reading here is written in Hugo. Hugo is a tool/ framework/ thingamajig that lets you generate static HTML from Markdown files, manage content formatting, and some other things I don&#39;t feel like getting into.</description>
+    </item>
+  </channel>
+</rss>
