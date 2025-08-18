@@ -10,16 +10,16 @@
     <atom:link href="https://engineerkappa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Web Dev is Hard</title>
-      <link>https://engineerkappa.github.io/post/webdevishard/</link>
+      <link>https://engineerkappa.github.io/post/25-07-26-webdevishard/</link>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://engineerkappa.github.io/post/webdevishard/</guid>
+      <guid>https://engineerkappa.github.io/post/25-07-26-webdevishard/</guid>
       <description>Do you ever encounter a task that&#39;s kind of tedious, and you realize you know some way to make it go faster, only to spend way longer automating it than it would&#39;ve taken in the first place?&#xA;Hi, this is the programmer bunny speaking!&#xA;The site you&#39;re reading here is written in Hugo. Hugo is a tool/ framework/ thingamajig that lets you generate static HTML from Markdown files, manage content formatting, and some other things I don&#39;t feel like getting into.</description>
     </item>
     <item>
       <title>Hello, World!</title>
-      <link>https://engineerkappa.github.io/post/helloworld/</link>
+      <link>https://engineerkappa.github.io/post/25-07-25-helloworld/</link>
       <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://engineerkappa.github.io/post/helloworld/</guid>
+      <guid>https://engineerkappa.github.io/post/25-07-25-helloworld/</guid>
       <description>Hello, world!&#xA;Hello, world!&#xA;h&#xA;e&#xA;l&#xA;l&#xA;o&#xA;w&#xA;o&#xA;r&#xA;l&#xA;d&#xA;dlrow olleh</description>
     </item>
     <item>
