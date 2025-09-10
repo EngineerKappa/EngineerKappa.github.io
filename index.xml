@@ -9,13 +9,13 @@
     <managingEditor>engineerkappa@gmail.com (EngineerKappa)</managingEditor>
     <webMaster>engineerkappa@gmail.com (EngineerKappa)</webMaster>
     <copyright>© 2025 EngineerKappa</copyright>
-    <lastBuildDate>Mon, 08 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://engineerkappa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What the heck is an RSS?</title>
-      <link>https://engineerkappa.github.io/post/25-09-08-rss/</link>
-      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate><author>engineerkappa@gmail.com (EngineerKappa)</author>
-      <guid>https://engineerkappa.github.io/post/25-09-08-rss/</guid>
+      <link>https://engineerkappa.github.io/post/25-09-10-rss/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate><author>engineerkappa@gmail.com (EngineerKappa)</author>
+      <guid>https://engineerkappa.github.io/post/25-09-10-rss/</guid>
       <description>&lt;p&gt;Everyone knows social media sucks, so I&#39;m not going to waste your time ranting about why you&#39;d want other options. One of those other options is RSS, a standard format for aggregating content across the internet. At least that&#39;s what I think it does?&lt;/p&gt;
 &lt;p&gt;This format feels prehistoric, and yet I&#39;ve never once interacted with it. Apparently Hugo, the web framework I use, has native support for it? Maybe I should actually mess with that some?&lt;/p&gt;
 &lt;p&gt;It&#39;s hard to tailor my content for a format I don&#39;t really even use...&lt;/p&gt;
@@ -84,7 +84,7 @@
       <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate><author>engineerkappa@gmail.com (EngineerKappa)</author>
       <guid>https://engineerkappa.github.io/budd/characters/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://engineerkappa.github.io/budd/&#34;&gt;&lt;strong&gt;&lt;em&gt;&amp;lt;-- Back to the BUDD Main page&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;diconpng--hahahugoshortcode7s0hbhb&#34;&gt;
+&lt;h1 id=&#34;diconpng--hahahugoshortcode6s0hbhb&#34;&gt;
   &lt;img src=&#34;icon.png&#34; alt=&#34;:D&#34; title=&#34;:D&#34;&gt;
  The Characters of B.U.D.D.&lt;/h1&gt;
 &lt;strong&gt; &lt;nav id=&#34;TableOfContents&#34;&gt;
@@ -4796,9 +4796,9 @@ A lot of things would eventually change since that vertical slice. I totally rev
 &lt;ul&gt;
     
     &lt;li&gt;
-        &lt;strong&gt;&lt;a href=&#34;https://engineerkappa.github.io/post/25-09-08-rss/&#34;&gt;What the heck is an RSS?&lt;/a&gt;&lt;/strong&gt;
+        &lt;strong&gt;&lt;a href=&#34;https://engineerkappa.github.io/post/25-09-10-rss/&#34;&gt;What the heck is an RSS?&lt;/a&gt;&lt;/strong&gt;
         
-        &lt;font size=&#34;1&#34;&gt;&lt;i&gt;( Sep 8, 2025)&lt;/i&gt;&lt;/font&gt;
+        &lt;font size=&#34;1&#34;&gt;&lt;i&gt;( Sep 10, 2025)&lt;/i&gt;&lt;/font&gt;
         
     
         
