@@ -15,7 +15,7 @@
       <item>
         <title>What the heck is an RSS?</title>
         <link>https://engineerkappa.github.io/post/25-09-10-rss/</link>
-        <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate><author>engineerkappa@gmail.com (EngineerKappa)</author>
+        <pubDate>Wed, 10 Sep 2025</pubDate><author>engineerkappa@gmail.com (EngineerKappa)</author>
         <guid>https://engineerkappa.github.io/post/25-09-10-rss/</guid>
         <description>&lt;p&gt;Everyone knows social media sucks, so I&#39;m not going to waste your time ranting about why you&#39;d want other options. One of those other options is RSS, a standard format for aggregating content across the internet. At least that&#39;s what I think it does?&lt;/p&gt;
 &lt;p&gt;This format feels prehistoric, and yet I&#39;ve never once interacted with it. Apparently Hugo, the web framework I use, has native support for it? Maybe I should actually mess with that some?&lt;/p&gt;
@@ -28,7 +28,7 @@
       <item>
         <title>Web Dev is Hard</title>
         <link>https://engineerkappa.github.io/post/25-07-26-webdevishard/</link>
-        <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate><author>engineerkappa@gmail.com (EngineerKappa)</author>
+        <pubDate>Sat, 26 Jul 2025</pubDate><author>engineerkappa@gmail.com (EngineerKappa)</author>
         <guid>https://engineerkappa.github.io/post/25-07-26-webdevishard/</guid>
         <description>&lt;p&gt;Do you ever encounter a task that&#39;s kind of tedious, and you realize you know some way to make it go faster, only to spend way longer automating it than it would&#39;ve taken in the first place?&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Hi, this is the programmer bunny speaking!&lt;/em&gt;&lt;/p&gt;
@@ -44,7 +44,7 @@
       <item>
         <title>Hello, World!</title>
         <link>https://engineerkappa.github.io/post/25-07-25-helloworld/</link>
-        <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate><author>engineerkappa@gmail.com (EngineerKappa)</author>
+        <pubDate>Fri, 25 Jul 2025</pubDate><author>engineerkappa@gmail.com (EngineerKappa)</author>
         <guid>https://engineerkappa.github.io/post/25-07-25-helloworld/</guid>
         <description>&lt;p&gt;&lt;em&gt;Hello&lt;/em&gt;, world!&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;Hello, world!&lt;/code&gt;&lt;/p&gt;
