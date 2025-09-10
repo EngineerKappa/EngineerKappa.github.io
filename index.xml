@@ -21,6 +21,7 @@
 &lt;p&gt;This format feels prehistoric, and yet I&#39;ve never once interacted with it. Apparently Hugo, the web framework I use, has native support for it? Maybe I should actually mess with that some?&lt;/p&gt;
 &lt;p&gt;It&#39;s hard to tailor my content for a format I don&#39;t really even use...&lt;/p&gt;
 &lt;p&gt;Do I need to format things in a specific way? I might have to. I&#39;ll let y&#39;all know what I find.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update from a few hours later:&lt;/strong&gt; Managed to clean the feed somewhat! Should have better metadata, utility pages like the sitemap shouldn&#39;t be included in the feed anymore.&lt;/p&gt;
 </description>
       </item>
       
