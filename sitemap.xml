@@ -3,15 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://engineerkappa.github.io/</loc>
-    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://engineerkappa.github.io/post/</loc>
-    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://engineerkappa.github.io/tags/programming/</loc>
-    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://engineerkappa.github.io/tags/</loc>
+    <lastmod>2025-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://engineerkappa.github.io/tags/webdev/</loc>
+    <lastmod>2025-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://engineerkappa.github.io/post/25-09-08-rss/</loc>
+    <lastmod>2025-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://engineerkappa.github.io/tags/programming/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://engineerkappa.github.io/tags/web/</loc>
@@ -24,9 +30,6 @@
     <lastmod>2025-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://engineerkappa.github.io/budd/characters/</loc>
-    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://engineerkappa.github.io/tags/webdev/</loc>
     <lastmod>2025-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://engineerkappa.github.io/budd/history/</loc>

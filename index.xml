@@ -6,8 +6,15 @@
     <description>Recent content in Home on EngineerKappa&#39;s River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://engineerkappa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What the heck is an RSS?</title>
+      <link>https://engineerkappa.github.io/post/25-09-08-rss/</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://engineerkappa.github.io/post/25-09-08-rss/</guid>
+      <description>Everyone knows social media sucks, so I&#39;m not going to waste your time ranting about why you&#39;d want other options. One of those other options is RSS, a standard format for aggregating content across the internet. At least that&#39;s what I think it does?&#xA;This format feels prehistoric, and yet I&#39;ve never once interacted with it. Apparently Hugo, the web framework I use, has native support for it? Maybe I should actually mess with that some?</description>
+    </item>
     <item>
       <title>Web Dev is Hard</title>
       <link>https://engineerkappa.github.io/post/25-07-26-webdevishard/</link>
@@ -62,7 +69,7 @@
       <link>https://engineerkappa.github.io/sitemap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://engineerkappa.github.io/sitemap/</guid>
-      <description>Sitemap Here&#39;s all the pages on the site, for easy reference:&#xA;Web Dev is Hard&#xD;( Jul 26, 2025)&#xD;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Trying to make things simpler&#xD;The Characters of B.U.D.D.&#xD;( Jul 25, 2025)&#xD;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Get to know Eris and all the other dorks that inhabit the Lumina System!&#xD;Hello, World!&#xD;( Jul 25, 2025)&#xD;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Hello, World!&#xD;The History of B.U.D.D.&#xD;( Sep 18, 2024)&#xD;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;A comprehensive look at the game&amp;#39;s development from its inception.</description>
+      <description>Sitemap Here&#39;s all the pages on the site, for easy reference:&#xA;What the heck is an RSS?&#xD;( Sep 8, 2025)&#xD;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;I&amp;#39;d like to know!&#xD;Web Dev is Hard&#xD;( Jul 26, 2025)&#xD;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Trying to make things simpler&#xD;The Characters of B.U.D.D.&#xD;( Jul 25, 2025)&#xD;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Get to know Eris and all the other dorks that inhabit the Lumina System!&#xD;Hello, World!&#xD;( Jul 25, 2025)&#xD;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Hello, World!&#xD;The History of B.</description>
     </item>
   </channel>
 </rss>
