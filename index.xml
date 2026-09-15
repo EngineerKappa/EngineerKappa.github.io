@@ -6,16 +6,48 @@
     <description>Recent ramblings from EngineerKappa!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <managingEditor>engineerkappa@gmail.com (EngineerKappa)</managingEditor>
-    <webMaster>engineerkappa@gmail.com (EngineerKappa)</webMaster>
+    <managingEditor>engineerkappa@gmail.com (Anna Sandlin)</managingEditor>
+    <webMaster>engineerkappa@gmail.com (Anna Sandlin)</webMaster>
     <copyright>© 2025 EngineerKappa</copyright>
-    <lastBuildDate>Wed, 10 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://engineerkappa.github.io/index.xml" rel="self" type="application/rss+xml" />
+      
+      <item>
+        <title>MOD: Kappa in Super Metroid</title>
+        <link>https://engineerkappa.github.io/post/26-09-15-metroid3kappa/</link>
+        <pubDate>Tue, 15 Sep 2026</pubDate><author>engineerkappa@gmail.com (Anna Sandlin)</author>
+        <guid>https://engineerkappa.github.io/post/26-09-15-metroid3kappa/</guid>
+        <description>&lt;h3&gt;&lt;img src=&#34;https://engineerkappa.github.io/othergames/m3kappa_animated.gif&#34; alt=&#34;Kappa giving those space pirates what&amp;#39;s for&#34; title=&#34;Kappa giving those space pirates what&amp;#39;s for&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;I love Super Metroid, I love Randomizers, and I love making sprites of my little goobers.
+I thought it would be fun making sprites of my goober to play as in Super Metroid randomizers.&lt;/p&gt;
+&lt;p&gt;...Unfortunately at the time of writing this my controllers are still in storage, so testing this means enduring Super Metroid on keyboard.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;h3&gt;&lt;a href=&#34;https://engineerkappa.github.io/othergames/m3kappa.png&#34;&gt;Sprite Sheet Download&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;I recommend using &lt;a href=&#34;https://github.com/Artheau/SpriteSomething/releases/tag/v1.70&#34;&gt;SpriteSomething&lt;/a&gt; to inject the sprite sheet into the rom of your choice. I&#39;ve only tested it with the vanilla game and Map Rando, but in theory it should work with other randomizers.&lt;/p&gt;
+&lt;h3 id=&#34;things-to-note&#34;&gt;Things to Note&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Kappa&#39;s short. Their gun&#39;s way lower than Samus&#39;s and there isn&#39;t really any way to get around that. Maybe it&#39;d be cool one day making a proper hack someday affecting all the shot positions and hitboxes.&lt;/li&gt;
+&lt;li&gt;There are some minor animation misalignments, mostly just things Super Metroid already does that are hard to work around.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h1&gt;
+&lt;h3&gt;&lt;img src=&#34;https://engineerkappa.github.io/othergames/m3kappa_fileselect.png&#34; alt=&#34;File select. That&amp;#39;s not samus!&#34; title=&#34;File select. That&amp;#39;s not samus!&#34;&gt;
+
+
+  &lt;img src=&#34;https://engineerkappa.github.io/othergames/m3kappa_crateria.png&#34; alt=&#34;Kappa exploring the ruins of Tourian&#34; title=&#34;Kappa exploring the ruins of Tourian&#34;&gt;
+
+
+  &lt;img src=&#34;https://engineerkappa.github.io/othergames/m3kappa_shinespark.png&#34; alt=&#34;Kappa nyooming through Brinstar&#34; title=&#34;Kappa nyooming through Brinstar&#34;&gt;
+
+
+  &lt;img src=&#34;https://engineerkappa.github.io/othergames/m3kappa_slime.png&#34; alt=&#34;Morphed into a slime&#34; title=&#34;Morphed into a slime&#34;&gt;&lt;/h3&gt;
+</description>
+      </item>
+      
       
       <item>
         <title>What the heck is an RSS?</title>
         <link>https://engineerkappa.github.io/post/25-09-10-rss/</link>
-        <pubDate>Wed, 10 Sep 2025</pubDate><author>engineerkappa@gmail.com (EngineerKappa)</author>
+        <pubDate>Wed, 10 Sep 2025</pubDate><author>engineerkappa@gmail.com (Anna Sandlin)</author>
         <guid>https://engineerkappa.github.io/post/25-09-10-rss/</guid>
         <description>&lt;p&gt;Everyone knows social media sucks, so I&#39;m not going to waste your time ranting about why you&#39;d want other options. One of those other options is RSS, a standard format for aggregating content across the internet. At least that&#39;s what I think it does?&lt;/p&gt;
 &lt;p&gt;This format feels prehistoric, and yet I&#39;ve never once interacted with it. Apparently Hugo, the web framework I use, has native support for it? Maybe I should actually mess with that some?&lt;/p&gt;
@@ -29,7 +61,7 @@
       <item>
         <title>Web Dev is Hard</title>
         <link>https://engineerkappa.github.io/post/25-07-26-webdevishard/</link>
-        <pubDate>Sat, 26 Jul 2025</pubDate><author>engineerkappa@gmail.com (EngineerKappa)</author>
+        <pubDate>Sat, 26 Jul 2025</pubDate><author>engineerkappa@gmail.com (Anna Sandlin)</author>
         <guid>https://engineerkappa.github.io/post/25-07-26-webdevishard/</guid>
         <description>&lt;p&gt;Do you ever encounter a task that&#39;s kind of tedious, and you realize you know some way to make it go faster, only to spend way longer automating it than it would&#39;ve taken in the first place?&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Hi, this is the programmer bunny speaking!&lt;/em&gt;&lt;/p&gt;
@@ -45,7 +77,7 @@
       <item>
         <title>Hello, World!</title>
         <link>https://engineerkappa.github.io/post/25-07-25-helloworld/</link>
-        <pubDate>Fri, 25 Jul 2025</pubDate><author>engineerkappa@gmail.com (EngineerKappa)</author>
+        <pubDate>Fri, 25 Jul 2025</pubDate><author>engineerkappa@gmail.com (Anna Sandlin)</author>
         <guid>https://engineerkappa.github.io/post/25-07-25-helloworld/</guid>
         <description>&lt;p&gt;&lt;em&gt;Hello&lt;/em&gt;, world!&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;Hello, world!&lt;/code&gt;&lt;/p&gt;
